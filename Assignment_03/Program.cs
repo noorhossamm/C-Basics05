@@ -102,6 +102,12 @@
             //Console.WriteLine($"Int value of Science: {G3}"); 
             #endregion
 
+            #region Question10
+            //int genreNumber = 1;
+            //Genre g = (Genre)genreNumber;
+            //Console.WriteLine($"Genre for number {genreNumber} is {g}"); 
+            #endregion
+
 
 
 
