@@ -72,6 +72,11 @@
             // Calling from main is inaccessible because it is private.
             #endregion
 
+            #region Question06
+            //Book b = new Book();
+            //Console.WriteLine(b.copiesInStock); 
+            #endregion
+
 
 
 

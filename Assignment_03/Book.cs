@@ -9,5 +9,9 @@ namespace Assignment_03
         #region Question05
         //private string password = "secret"; 
         #endregion
+
+        #region Question06
+        //internal int copiesInStock = 5; 
+        #endregion
     }
 }
