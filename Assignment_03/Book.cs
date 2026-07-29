@@ -17,5 +17,9 @@ namespace Assignment_03
         #region Question07
         //public string Title; 
         #endregion
+
+        #region Question08
+        //public Genre genre { get; set; } 
+        #endregion
     }
 }

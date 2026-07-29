@@ -86,6 +86,12 @@
             // Title is public and can be accessed from anywhere.
             #endregion
 
+            #region Question08
+            //Book b = new Book();
+            //b.genre = Genre.Science;
+            //Console.WriteLine(b.genre); 
+            #endregion
+
 
 
 
