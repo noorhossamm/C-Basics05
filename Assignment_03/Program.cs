@@ -26,6 +26,12 @@
         //} 
         #endregion
 
+        #region Question03
+        //static void PrintBookInfo(string title, int pages )
+        //{
+        //    Console.WriteLine($"Title: {title} , Pages: {pages}");
+        //}
+        #endregion
 
         static void Main(string[] args)
         {
@@ -39,6 +45,12 @@
             //PrintBookInfo("Clean Code");
             //PrintBookInfo("Clean Code", 600); 
             #endregion
+
+            #region Question03
+            //PrintBookInfo(pages:400 , title:"Clean Code");
+            #endregion
+
+
 
 
 
