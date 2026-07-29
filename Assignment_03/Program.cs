@@ -19,6 +19,14 @@
         //} 
         #endregion
 
+        #region Question02
+        //static void PrintBookInfo(string title, int pages = 300)
+        //{
+        //    Console.WriteLine($"Title: {title} , Pages: {pages}");
+        //} 
+        #endregion
+
+
         static void Main(string[] args)
         {
             #region Question01
@@ -26,6 +34,13 @@
             //bool IsPriceFound = TryGetPrice("Clean Code", out price);
             //Console.WriteLine($"Price :{price}"); 
             #endregion
+
+            #region Question02
+            //PrintBookInfo("Clean Code");
+            //PrintBookInfo("Clean Code", 600); 
+            #endregion
+
+
 
 
 
