@@ -1,4 +1,6 @@
-﻿namespace Assignment_03
+﻿using System.Numerics;
+
+namespace Assignment_03
 {
     internal class Program
     {
@@ -114,6 +116,14 @@
             //Console.WriteLine(g); 
             #endregion
 
+            #region Question12
+            //string genreText = "Mystery";
+            //bool isParsed = Enum.TryParse(genreText, out Genre g);
+            //if(!isParsed)
+            //{
+            //    Console.WriteLine("Unknown genre");
+            //} 
+            #endregion
 
 
 
