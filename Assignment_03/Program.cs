@@ -76,6 +76,14 @@
             //Book b = new Book();
             //Console.WriteLine(b.copiesInStock); 
             //That works because the copiesInStock field is internal and can be accessed from within the same assembly(project).
+
+            #endregion
+
+            #region Question07
+            //Book b = new Book();
+            //b.Title = "Clean Code";
+            //Console.WriteLine(b.Title); 
+            // Title is public and can be accessed from anywhere.
             #endregion
 
 

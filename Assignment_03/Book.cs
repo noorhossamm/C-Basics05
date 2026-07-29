@@ -13,5 +13,9 @@ namespace Assignment_03
         #region Question06
         //internal int copiesInStock = 5; 
         #endregion
+
+        #region Question07
+        //public string Title; 
+        #endregion
     }
 }
