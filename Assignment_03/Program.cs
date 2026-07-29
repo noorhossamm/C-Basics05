@@ -108,6 +108,12 @@
             //Console.WriteLine($"Genre for number {genreNumber} is {g}"); 
             #endregion
 
+            #region Question11
+            //string genreText = "Science";
+            //Genre g = Enum.Parse<Genre>(genreText);
+            //Console.WriteLine(g); 
+            #endregion
+
 
 
 
