@@ -33,6 +33,17 @@
         //}
         #endregion
 
+        #region Question04
+        //static void PrintAllTitles(params string[] titles)
+        //{
+        //    foreach (var title in titles)
+        //    {
+        //        Console.WriteLine(title);
+        //    }
+
+        //} 
+        #endregion
+
         static void Main(string[] args)
         {
             #region Question01
@@ -48,6 +59,10 @@
 
             #region Question03
             //PrintBookInfo(pages:400 , title:"Clean Code");
+            #endregion
+
+            #region Question04
+            //PrintAllTitles("Refactoring", "Clean Code", "Design Patterns"); 
             #endregion
 
 
