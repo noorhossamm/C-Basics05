@@ -65,6 +65,13 @@
             //PrintAllTitles("Refactoring", "Clean Code", "Design Patterns"); 
             #endregion
 
+            #region Question05
+            //Book b1 = new Book();
+            //Console.WriteLine(b1.name); 
+            // That is an error because the name field is private and cannot be accessed from outside the Book class.
+            // Calling from main is inaccessible because it is private.
+            #endregion
+
 
 
 
