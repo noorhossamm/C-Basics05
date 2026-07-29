@@ -75,6 +75,7 @@
             #region Question06
             //Book b = new Book();
             //Console.WriteLine(b.copiesInStock); 
+            //That works because the copiesInStock field is internal and can be accessed from within the same assembly(project).
             #endregion
 
 
