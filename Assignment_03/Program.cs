@@ -92,7 +92,15 @@
             //Console.WriteLine(b.genre); 
             #endregion
 
+            #region Question09
+            //int G1 = (int) Genre.Fiction;
+            //int G2 = (int) Genre.NonFiction;
+            //int G3 = (int) Genre.Science;
 
+            //Console.WriteLine($"Int value of Fiction: {G1}");
+            //Console.WriteLine($"Int value of NonFiction: {G2}");
+            //Console.WriteLine($"Int value of Science: {G3}"); 
+            #endregion
 
 
 
